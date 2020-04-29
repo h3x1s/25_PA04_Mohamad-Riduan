@@ -1,11 +1,30 @@
 Unit Testing
-- What is unit testing?
-- Unit Testing is conducted by____Tester and developers____
-- It is type of (BlackBox/WhiteBox Testing)
+- What is unit testing? execution or a complete class, routine or small program that has been
+written by a single or a team of programmers which is tested in isolation from the more complete system.
+
+- Unit Testing is conducted by____tester____
+- It is a type of WhiteBox Testing
 
 
 
 Integration Testing 
-- What is unit testing?
-- Unit Testing is conducted by____Tester and developers____
-- It is type of (BlackBox/WhiteBox Testing)
+- What is unit testing? Combined execution of two or more classes, packages, components, or
+subsystems that have been created by multiple programmers or programming teams.
+
+- Unit Testing is conducted by____developers____
+- It is a type of BlackBox testing
+
+
+System Testing
+- What is system testing? the execution of the software in its final configuration, including
+integration with other software and hardware systems.
+
+- System testing is conducted by _____developers______
+-It is a type of Blackbox testing
+
+
+
+Acceptance Testing
+- What is acceptance testing? Is the final test before the customer signs-off and accepts it.
+- Acceptance testing is conducted by _______user/customer___
+- It is a type of Blackbox testing
