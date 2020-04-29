@@ -1,11 +1,11 @@
 Unit Testing
 - What is unit testing?
-- Unit Testing is conducted by________
+- Unit Testing is conducted by____Tester and developers____
 - It is type of (BlackBox/WhiteBox Testing)
 
 
 
 Integration Testing 
 - What is unit testing?
-- Unit Testing is conducted by________
+- Unit Testing is conducted by____Tester and developers____
 - It is type of (BlackBox/WhiteBox Testing)
